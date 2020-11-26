@@ -1,3 +1,4 @@
 [submodule "Plugins/PluginExample"]
 	path = Plugins/PluginExample
 	url = https://github.com/insooneelife/PluginExample.git
+	ignore = all
