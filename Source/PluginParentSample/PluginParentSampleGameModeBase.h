@@ -14,4 +14,6 @@ class PLUGINPARENTSAMPLE_API APluginParentSampleGameModeBase : public AGameModeB
 {
 	GENERATED_BODY()
 	
+public:
+    virtual void BeginPlay() override;
 };
